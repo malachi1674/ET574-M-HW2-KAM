@@ -1,0 +1,1 @@
+print('Malachi Task A')
